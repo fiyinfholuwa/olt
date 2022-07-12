@@ -1695,7 +1695,7 @@ b, strong {
   }
   .site-header #navbar > ul > li > .sub-menu > .menu-item-has-children > a:before {
     font-family: "themify";
-    content: "\e649";
+   
     font-size: 11px;
     font-size: 0.73333rem;
     position: absolute;
@@ -1742,7 +1742,7 @@ b, strong {
   }
   .site-header #navbar > ul .menu-item-has-children > a:before {
     font-family: "themify";
-    content: "\e64b";
+   
     font-size: 11px;
     font-size: 0.73333rem;
     position: absolute;
